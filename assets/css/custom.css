@@ -25,9 +25,3 @@ a .btn ex, a .btn btn-github ex {
 	line-height: 45;
 	vertical-align: middle;
 }
-div .space { 
-	margin: 5px;
-	position: relative;
- 	display: block;
-	float: left;
-}
