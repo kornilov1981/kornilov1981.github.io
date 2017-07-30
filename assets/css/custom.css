@@ -9,8 +9,7 @@ span .simple_header {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 h1 .customize { 
-   margin-left: 0px !important;	
-   float: left; position: relative; font-size: 22px; 
+   float: left; position: relative; 
 }
 h2 .customize { 
    float: left; position: relative; font-size: 18px;
