@@ -22,10 +22,14 @@ a .btn ex {
  	display: inline-block;
 	float: left;
 	margin: 5px;
+	line-height: 45;
+	vertical-align: middle;
 }
 a .btn btn-github ex { 
 	position: relative;
  	display: inline-block;
 	float: left;
 	margin: 5px;
+	line-height: 45;
+	vertical-align: middle;
 }
