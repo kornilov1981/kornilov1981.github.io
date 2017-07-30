@@ -15,7 +15,7 @@ header h2 .customize {
 	float: left; position: relative; font-size: 18px;
 }
 header h1 {
-	margin-left: 0px; 
+	margin-left: 0px !important;
 }
 header h2 {
 	margin-left: 0px; 
