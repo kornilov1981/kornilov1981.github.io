@@ -1,5 +1,5 @@
 /* CSS Document */
-body .custom {
+body .customize {
 	text-align: left;
 }
 span .simple_header { 
@@ -8,13 +8,13 @@ span .simple_header {
 	line-height: 1.5;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
-h1 .custom { 
+h1 .customize { 
    margin-left: 0px !important;	
    float: left; position: relative; font-size: 22px; 
 }
-h2 .custom { 
+h2 .customize { 
    float: left; position: relative; font-size: 18px;
 }
-h3 .custom { 
+h3 .customize { 
    float: left; position: relative; 
 }
