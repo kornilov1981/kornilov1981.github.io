@@ -9,12 +9,18 @@ span .simple_header {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 h1 .customize { 
-   float: left; position: relative; 
+	float: left; position: relative; 
 }
 h2 .customize { 
-   color: #eaeaea !important;
-   float: left; position: relative; font-size: 18px;
+	float: left; position: relative; font-size: 18px;
+}
+header h1 {
+	margin-left: 0px; 
+}
+header h2 {
+	margin-left: 0px; 
+	color: #eaeaea !important;
 }
 h3 .customize { 
-   float: left; position: relative; 
+	float: left; position: relative; 
 }
