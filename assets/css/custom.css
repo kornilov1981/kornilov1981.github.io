@@ -12,7 +12,7 @@ h1 .customize {
    float: left; position: relative; 
 }
 h2 .customize { 
-   color: #eaeaea;
+   color: #eaeaea !important;
    float: left; position: relative; font-size: 18px;
 }
 h3 .customize { 
