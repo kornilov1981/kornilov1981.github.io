@@ -17,11 +17,3 @@ h2 .customize {
 h3 .customize { 
    float: left; position: relative; 
 }
-a .btn ex, a .btn btn-github ex { 
-	position: relative;
- 	display: inline-block;
-	float: left;
-	margin: 5px;
-	line-height: 45;
-	vertical-align: middle;
-}
