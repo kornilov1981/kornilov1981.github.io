@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Visit author project - OutWar.Zone](http://outwar.zone).
 
-[Link to another page](another-page).
+HACKER THEME FRONT END EXAMPLES
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
